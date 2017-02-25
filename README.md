@@ -9,3 +9,6 @@ Guitar chords and tabs.
 
 ### Hangman
 Difficulty slider, nice GUI.
+
+### Pedometer
+Pretty self explanatory, rates user on pedo scale from "normal" to "wanna see a puppy?".
