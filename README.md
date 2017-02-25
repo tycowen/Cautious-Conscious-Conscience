@@ -4,5 +4,8 @@
 ### College Connection
 Ride-sharing, study groups, clubs, message board, classifieds.
 
+### Songbook
+Guitar chords and tabs.
+
 ### Hangman
-Pretty self explanatory
+Difficulty slider, nice GUI.
